@@ -7,7 +7,7 @@
 
 '''
 
-def number_pattern1(number):
+def number_pattern5(number):
     for row in range(1,number+1):
         result = ""
         for each_row in range(1,row+1):
@@ -17,4 +17,4 @@ def number_pattern1(number):
         print(front_spaces + result)
 
 number = int(input())
-number_pattern1(number)
+number_pattern5(number)
