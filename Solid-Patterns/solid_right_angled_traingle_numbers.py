@@ -1,6 +1,14 @@
 # Solid Right angled Traingle numbers
 # While Loop
 
+'''
+1 
+2 2 
+3 3 3 
+4 4 4 4 
+5 5 5 5 5 
+
+'''
 def solid_right_angled_traingle_numbers(no_of_rows):
     counter = 1
     while counter <= no_of_rows:

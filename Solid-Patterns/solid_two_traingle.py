@@ -1,5 +1,20 @@
 #WHILE LOOP
 
+'''
+1 
+2 2 
+3 3 3 
+4 4 4 4 
+5 5 5 5 5 
+1 
+2 2 
+3 3 3 
+4 4 4 4 
+5 5 5 5 5 
+
+
+'''
+
 def two_right_angle_traingle(number):
     count1 = 1
     while count1 <=2:

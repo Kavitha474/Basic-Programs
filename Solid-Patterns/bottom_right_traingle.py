@@ -2,6 +2,14 @@
 
 #While loop 
 
+'''
+* * * * * 
+  * * * * 
+    * * * 
+      * * 
+        *
+'''
+
 def bottom_right_traingle(number):
   for row in range(number):
         spaces = "  "

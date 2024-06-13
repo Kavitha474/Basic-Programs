@@ -10,7 +10,6 @@
     * *           * * 
     *               * 
 
-
 '''
 
 def timer1(number):

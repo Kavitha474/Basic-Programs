@@ -1,6 +1,14 @@
 #Inverted Traingle 
 #without using "*" * n
 
+'''
+* * * * * 
+* * * * 
+* * * 
+* * 
+* 
+'''
+
 number = int(input())
 for row in range (number):
     result = ""

@@ -2,6 +2,12 @@
 
 # While Loop
 
+'''
+* * * * * * * 
+* * * * * * * 
+* * * * * * * 
+'''
+
 def solid_rectangle(no_of_rows,no_of_cols):
     counter = 1
     while counter <= no_of_rows:

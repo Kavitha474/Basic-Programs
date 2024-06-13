@@ -1,5 +1,14 @@
 # #Nested Loop 
 
+'''
+        * 
+      * * 
+    * * * 
+  * * * * 
+* * * * *
+
+'''
+
 number = int(input())
 
 for row in range(1):

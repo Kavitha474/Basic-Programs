@@ -1,5 +1,14 @@
 # Square pattern (without using "* " * n)
 
+'''
+* * * * * 
+* * * * * 
+* * * * * 
+* * * * * 
+* * * * *
+
+'''
+
 n = int(input())
 
 for row in range(n):

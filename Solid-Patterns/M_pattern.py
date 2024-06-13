@@ -1,5 +1,13 @@
 # M Pattern 
 
+'''
+ *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *        *  *  *  * 
+ *  *  *              *  *  * 
+ *  *                    *  * 
+ *                          * 
+'''
+
 def M_pattern(number):
     for row in range (number):
         space = "   "

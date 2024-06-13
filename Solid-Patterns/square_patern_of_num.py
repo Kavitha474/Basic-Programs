@@ -1,6 +1,15 @@
 # Square of N rows M cols
 # While Loop
 
+'''
+1 1 1 1 1 
+2 2 2 2 2 
+3 3 3 3 3 
+4 4 4 4 4 
+5 5 5 5 5 
+
+'''
+
 def square_pattern(no_of_rows):
     counter = 1
     while counter <= no_of_rows:

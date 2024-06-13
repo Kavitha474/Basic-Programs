@@ -1,6 +1,14 @@
 #Nested Loop 
 #bottom Left traingle
 
+'''
+* * * * * 
+* * * * 
+* * * 
+* * 
+* 
+'''
+
 number = int(input())
 
 for row in range(number):

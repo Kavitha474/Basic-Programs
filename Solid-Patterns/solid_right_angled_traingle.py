@@ -1,5 +1,13 @@
 # Solid Right angled Traingle
 # While Loop
+'''
+* 
+* * 
+* * * 
+* * * * 
+* * * * * 
+
+'''
 
 def solid_right_angled_traingle(no_of_rows):
     counter = 1
