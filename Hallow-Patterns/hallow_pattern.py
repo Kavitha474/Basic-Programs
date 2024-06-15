@@ -1,3 +1,13 @@
+"""
+_ _ _ _ _ _ 
+|         / 
+|       / 
+|     / 
+|   / 
+| /
+
+"""
+
 def hallow_pattern(number):
     print("_ " * (number+1))
     
